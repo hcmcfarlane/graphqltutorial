@@ -7,7 +7,8 @@ function App() {
 		<div className="App">
 			<header className="App-header">
 				<h1>
-					<img src={emoji} height="60px" alt="" /> GraphQL Tutorial
+					<img src={emoji} height="40px" alt="" /> GraphQL Anime
+					Tutorial
 				</h1>
 			</header>
 			<main>
@@ -38,6 +39,25 @@ function App() {
 					</li>
 					<li>Adding variables to a query</li>
 				</ul>
+
+				<p>
+					Hi, I’m Hannah and I’m a junior fullstack developer looking
+					for my first role in tech. You can take a look at my{" "}
+					<a
+						href="https://github.com/hcmcfarlane"
+						target="_blank"
+						rel="noreferrer">
+						GitHub
+					</a>{" "}
+					or my{" "}
+					<a
+						href="https://www.linkedin.com/in/hannah-mcfarlane-8a764777/"
+						target="_blank"
+						rel="noreferrer">
+						LinkedIn
+					</a>
+					.
+				</p>
 				<Animes />
 			</main>
 		</div>

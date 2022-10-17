@@ -5,6 +5,10 @@ main {
 	margin: auto;
 }
 
+h1 {
+	font-size: 1em;
+}
+
 .App-logo {
 	height: 40vmin;
 	pointer-events: none;
@@ -18,7 +22,7 @@ main {
 
 .App-header {
 	background-color: #a51c30;
-	min-height: 150px;
+	min-height: 100px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;

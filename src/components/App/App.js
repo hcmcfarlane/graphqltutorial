@@ -58,6 +58,16 @@ function App() {
 					</a>
 					.
 				</p>
+				<p>
+					This project uses the{" "}
+					<a
+						href="https://anilist.co/"
+						target="_blank"
+						rel="noreferrer">
+						AniList API
+					</a>
+					.
+				</p>
 				<Animes />
 			</main>
 		</div>

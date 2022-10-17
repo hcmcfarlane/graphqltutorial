@@ -10,4 +10,6 @@
 -   Setting up a query to give back the data structure you want
 -   Adding variables to a query
 
+<center><img src="sitepreview.png" alt="Screenshot of the finished deployed project"></center>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

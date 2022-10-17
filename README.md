@@ -1,5 +1,7 @@
 # GraphQL tutorial
 
+**Project deployed at [https://graphqltutorial.vercel.app/](https://graphqltutorial.vercel.app/).**
+
 <p>A very quick first look at GraphQL. I followed the tutorial at
 <a href="https://www.freecodecamp.org/news/graphql-for-front-end-developers/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>. Using this tutorial I learned:</p>
 
